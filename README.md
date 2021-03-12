@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lehansun
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning DI and IC
-- 📫 How to reach me: Email - avozdusevich@gmail.com
+- 📫 How to reach me: Email - avazdusevich@gmail.com
 - ✨ My linkedin profile: https://www.linkedin.com/in/avazdusevich/
 
 <!---
