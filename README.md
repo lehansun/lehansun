@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lehansun
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning DI and IC
+- 🌱 I’m currently learning SpringSecurity and Testing
 - 📫 How to reach me: Email - avazdusevich@gmail.com
 - ✨ My linkedin profile: https://www.linkedin.com/in/avazdusevich/
 
